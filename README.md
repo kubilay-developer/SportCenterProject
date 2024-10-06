@@ -16,4 +16,4 @@ Bu proje, çeşitli fitness derslerini tanıtan ve kullanıcıların dersleri g�
 - JavaScript
 
 ## Canlı Link
-[Fitness Course Platform](https://patika-bitirme-projesi.netlify.app/#)
+[Sport Center](https://patika-bitirme-projesi.netlify.app/#)
